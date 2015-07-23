@@ -1,0 +1,6 @@
+main
+	vdelay_init
+	ADC_Read
+		Delay_22us
+interrupt
+	vdelay_us
